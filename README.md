@@ -1,1 +1,2 @@
-# NAND-Based-Ring-Oscillator-
+#NAND-Based Ring Oscillator for Timing Applications 
+
