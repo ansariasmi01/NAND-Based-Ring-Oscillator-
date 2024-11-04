@@ -6,33 +6,15 @@ This project simulates the designed ring oscillator circuit to analyze its timin
 
 Note:Note: Circuit requires further optimization to improve performance. Design yet to be modified.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## A Glance at the Ring Oscillator for Timing Applications
 
-The ring oscillator is a crucial component for generating stable oscillations without requiring an external clock source, making it valuable in timing, clock generation, and frequency synthesis applications. Used in systems such as phase-locked loops (PLLs), clock recovery systems, and other time-sensitive circuits, the NAND-based design provides enhanced flexibility and frequency control through its additional inputs. Therefore, designing a ring oscillator with a high power supply rejection ratio and stable frequency characteristics is essential to ensure consistent performance. In this project, we explore the principle of generation, implementation, design challenges, and potential improvements for the ring oscillator.
+The ring oscillator is a vital component for generating stable oscillations without relying on an external clock source, making it indispensable for various timing, clock generation, and frequency synthesis applications, including phase-locked loops (PLLs) and clock recovery systems. Its design, often based on inverters or NAND gates, provides flexibility and precise frequency control through adjustable stages. Designing a ring oscillator with a high power supply rejection ratio (PSRR) and stable frequency characteristics is crucial for consistent performance across varying operating conditions. This project explores the principles of ring oscillator operation, its implementation, the design challenges encountered, and potential improvements to enhance its performance and reliability.
 
 
 ## Block Diagram of the Ring Oscillator for Timing Applications
 
  ![image alt](https://github.com/ansariasmi01/RO/blob/9cbdac6bae896ea371accd4a8989f908d5866e6f/Block%20Diagram.jpg)
- <p align="center">
-  <img width="800" height="500">
-</p>
+
 
 ## Circuit Diagram of the Ring Oscillator for Timing Applications
 ![image alt](https://github.com/ansariasmi01/RO/blob/ddf1eacce8eab92efb141f6da4ecf5d1be1e2256/Circuit%20Diagram.jpg)
@@ -69,144 +51,97 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 
 
 
+## Tools used and steps to reproduce all waveforms (Tools allowed are xschem/eSim/ngspice) 
+Ngspice is an open source mixed-signal circuit simulator.
 
+### Installing Ngspice
 
+#### For Ubuntu
 
+Open your terminal and type the following to install Ngspice
+```
+$  sudo apt-get install -y ngspice
+```
 
+## Running the Simulation
 
 
+To enter the Ngspice Shell, open the terminal & type:
+```
+$ ngspice
+```
+To simulate a netlist, type:
+```
+ngspice 1 ->  source <filename>.cir
+```
 
+You can exit from the Ngspice Shell by typing:
+```
+ngspice 1 ->  exit
+```
+ <p align="center"> or </p>
+ 
+```
+ngspice 1 ->  quit
+```
 
+There are several waveforms that need to be obtained to observe the performance of the Bandgap reference circuit.
 
+### Pre-Layout Simulation
 
+To clone the Repository and download the Netlist files for Simulation, enter the following commands in your terminal.
 
+```
+$  sudo apt install -y git
+$  git clone https://github.com/sherylcorina/avsdbgp_3v3
+$  cd avsdbgp_3v3/Simulation/Ngspice_Simulation/Final_Simulation/PreLayout
+```
 
+### Future Work
 
+1. **Improved Layout Techniques**: Use better layout methods like Common Centroid and Interdigitisation to enhance the matching of components in the ring oscillator.
 
+2. **Post-Layout Testing**: Perform post-layout simulations to check if the ring oscillator works as expected and meets the required frequency.
 
+3. **Supply Voltage Testing**: Analyze how the oscillator performs under different supply voltage levels to ensure it remains stable.
 
+4. **Power Optimization**: Look for ways to reduce power consumption in the ring oscillator by adjusting the biasing currents or resizing transistors.
 
+5. **Temperature Testing**: Test how the oscillator’s frequency changes with temperature and implement fixes to keep it stable across different temperatures.
 
+6. **Integration with Other Circuits**: Explore combining the ring oscillator with other circuits like phase-locked loops (PLLs) to create a complete timing solution.
 
+7. **Prototype Development**: Build a prototype of the ring oscillator and test it in real-world conditions to confirm that it performs as expected.
 
+8. **Stability Improvement**: Research ways to make the ring oscillator more stable, such as adding feedback or redesigning certain components.
 
+9. **Alternative Designs**: Investigate different ring oscillator designs to see if they perform better than the current one.
 
+10. **Application Customization**: Modify the ring oscillator design for specific uses, like low-power communication or high-speed digital applications.
 
+## Contributors 
 
+- **Sheryl Serrao** 
+- **Kunal Ghosh** 
+- **Philipp Gühring** 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tools used and steps to reproduce all waveforms (Tools allowed are xschem/eSim/ngspice)
-## Future Work for the NAND-Based Ring Oscillator for Timing Applications 
-
-
-## Contributors
 ## Acknowledgments
+
+
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+- Philipp Gühring, Software Architect, LibreSilicon Assocation
+- Saroj Rout, Associate Professor & Chief Mentor of VLSI Center of Excellence SIT, Bhubaneswar, India
+- Santunu Sarangi, Asst. Professor, SIT, Bhubaneswar, India
+- Tim Edwards, Senior Vice President of Analog and Design at efabless corporation
+- Ankur Sah, M.Tech Embedded Systems, NIT Jamshedpur
+
 ## Contact Information
+
+- Sheryl Serrao, Undergraduate Student, Mumbai University sherylcorina@gmail.com
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
+- Philipp Gühring, Software Architect, LibreSilicon Assocation pg@futureware.at
+- Dr. Gaurav Trivedi Co-Principal Investigator, EICT Academy, IIT Guwahati trivedi@iitg.ac.in
+
+
