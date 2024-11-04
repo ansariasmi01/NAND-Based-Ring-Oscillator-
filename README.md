@@ -30,7 +30,8 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 ## Block Diagram of the Ring Oscillator for Timing Applications
 
  <p align="center">
-  <img width="800" height="500" src="/Images/N/block.png">
+  <img width="800" height="500" src="/Images/N/![Block Diagram](https://github.com/user-attachments/assets/184be3a7-e5af-456d-abbc-8ca204a54da7)
+">
 </p>
 ![image alt](https://github.com/ansariasmi01/RO/blob/c283ae34f2557ac1f01c68e302be5278c2fa4a90/Block%20Diagram.jpg)
 
