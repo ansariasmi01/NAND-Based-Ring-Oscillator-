@@ -28,7 +28,7 @@ The NAND-based ring oscillator is a crucial component for generating stable osci
 
 
 ## Block Diagram of the NAND-Based Ring Oscillator for Timing Applications
-![image alt](https://github.com/ansariasmi01/NAND_RO/blob/9722e155515a6b7796f78b1ac8b67b641c6359a5/block%20diagram.png)
+![image alt](https://github.com/ansariasmi01/NAND_RO/blob/23d3de82a095ac53121851dec3a529548df966f6/Block%20Diagram.png)
 
 
 ## Circuit Diagram of the NAND-Based Ring Oscillator for Timing Applications
