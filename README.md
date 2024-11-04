@@ -35,12 +35,6 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 ![image alt](https://github.com/ansariasmi01/RO/blob/ddf1eacce8eab92efb141f6da4ecf5d1be1e2256/Circuit%20Diagram.jpg)
 
 ## Ring Oscillator Performance Parameters
-![image alt](https://github.com/ansariasmi01/RO/blob/1dd2d1b5d5297c59d69a6a2735036df92f6c1c1b/parameters.jpg)
-
-
-
-## Pre-Layout Performance Characteristics
-Here’s the table with additional columns for **Description**, **Min**, **Typical**, **Max**, **Unit**, and **Condition**:
 
 | Parameter                  | Description                                       | Min     | Typical           | Max   | Unit           | Condition                      |
 |----------------------------|---------------------------------------------------|---------|-------------------|-------|----------------|--------------------------------|
@@ -62,7 +56,9 @@ Here’s the table with additional columns for **Description**, **Min**, **Typic
 | **Compression Point**      | Power at which gain drops by 1 dB                 | -       | 3.712            | -     | dB             | at 6.056 dBm                   |
 | **IPN Curves**             | Intermodulation Product Nonlinearity curve slope  | 0.5     | 1                | 1.5   | dB/dB          | First order                    |
 
-This format includes each parameter's description, typical values, and relevant units and conditions to assist with accurate evaluation and reporting. Adjust the Min and Max columns based on your actual measurement ranges if needed.
+
+
+## Pre-Layout Performance Characteristics
 
 
 
