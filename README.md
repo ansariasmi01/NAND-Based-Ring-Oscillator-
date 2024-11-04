@@ -121,27 +121,21 @@ $  cd avsdbgp_3v3/Simulation/Ngspice_Simulation/Final_Simulation/PreLayout
 
 ## Contributors 
 
-- **Sheryl Serrao** 
+- **Almas Ansari** 
 - **Kunal Ghosh** 
-- **Philipp Gühring** 
+- **Nibha Desai** 
 
 
 
 ## Acknowledgments
 
-
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
-- Philipp Gühring, Software Architect, LibreSilicon Assocation
-- Saroj Rout, Associate Professor & Chief Mentor of VLSI Center of Excellence SIT, Bhubaneswar, India
-- Santunu Sarangi, Asst. Professor, SIT, Bhubaneswar, India
-- Tim Edwards, Senior Vice President of Analog and Design at efabless corporation
-- Ankur Sah, M.Tech Embedded Systems, NIT Jamshedpur
+- Nibha Desai, HoD. Professor, SAKEC, India
 
 ## Contact Information
 
-- Sheryl Serrao, Undergraduate Student, Mumbai University sherylcorina@gmail.com
+- Almas Ansari, Undergraduate Student, SAKEC, Mumbai  almas.18219@sakec.ac.in
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
-- Philipp Gühring, Software Architect, LibreSilicon Assocation pg@futureware.at
-- Dr. Gaurav Trivedi Co-Principal Investigator, EICT Academy, IIT Guwahati trivedi@iitg.ac.in
+- Nibha Desai, HoD. Professor, SAKEC, India nibha.desai@sakec.ac.in
 
 
