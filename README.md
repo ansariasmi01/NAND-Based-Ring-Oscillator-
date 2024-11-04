@@ -32,6 +32,8 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 
 
 ## Circuit Diagram of the Ring Oscillator for Timing Applications
+![image alt](https://github.com/ansariasmi01/RO/blob/ddf1eacce8eab92efb141f6da4ecf5d1be1e2256/Circuit%20Diagram.jpg)
+
 ## Ring Oscillator Performance Parameters
 
 
