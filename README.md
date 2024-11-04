@@ -1,8 +1,8 @@
 
-# NAND-Based Ring Oscillator for Timing Applications 
+# Ring Oscillator for Timing Applications 
 
 
-This project simulates the designed NAND-based ring oscillator circuit to analyze its timing performance and stability in various conditions.
+This project simulates the designed ring oscillator circuit to analyze its timing performance and stability in various conditions.
 
 Note:Note: Circuit requires further optimization to improve performance. Design yet to be modified.
 
@@ -22,17 +22,17 @@ Note:Note: Circuit requires further optimization to improve performance. Design 
 
 
 
-## A Glance at the NAND-Based Ring Oscillator for Timing Applications
+## A Glance at the Ring Oscillator for Timing Applications
 
-The NAND-based ring oscillator is a crucial component for generating stable oscillations without requiring an external clock source, making it valuable in timing, clock generation, and frequency synthesis applications. Used in systems such as phase-locked loops (PLLs), clock recovery systems, and other time-sensitive circuits, the NAND-based design provides enhanced flexibility and frequency control through its additional inputs. Therefore, designing a ring oscillator with a high power supply rejection ratio and stable frequency characteristics is essential to ensure consistent performance. In this project, we explore the principle of generation, implementation, design challenges, and potential improvements for the NAND-based ring oscillator.
+The ring oscillator is a crucial component for generating stable oscillations without requiring an external clock source, making it valuable in timing, clock generation, and frequency synthesis applications. Used in systems such as phase-locked loops (PLLs), clock recovery systems, and other time-sensitive circuits, the NAND-based design provides enhanced flexibility and frequency control through its additional inputs. Therefore, designing a ring oscillator with a high power supply rejection ratio and stable frequency characteristics is essential to ensure consistent performance. In this project, we explore the principle of generation, implementation, design challenges, and potential improvements for the ring oscillator.
 
 
-## Block Diagram of the NAND-Based Ring Oscillator for Timing Applications
+## Block Diagram of the Ring Oscillator for Timing Applications
 ![image alt](https://github.com/ansariasmi01/NAND_RO/blob/23d3de82a095ac53121851dec3a529548df966f6/Block%20Diagram.png)
 
 
-## Circuit Diagram of the NAND-Based Ring Oscillator for Timing Applications
-## NAND-Based Ring Oscillator Performance Parameters
+## Circuit Diagram of the Ring Oscillator for Timing Applications
+## Ring Oscillator Performance Parameters
 
 
 
