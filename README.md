@@ -39,6 +39,8 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 
 
 
+## Pre-Layout Performance Characteristics
+
 
 
 
