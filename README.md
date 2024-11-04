@@ -35,6 +35,7 @@ The ring oscillator is a crucial component for generating stable oscillations wi
 ![image alt](https://github.com/ansariasmi01/RO/blob/ddf1eacce8eab92efb141f6da4ecf5d1be1e2256/Circuit%20Diagram.jpg)
 
 ## Ring Oscillator Performance Parameters
+![image alt](https://github.com/ansariasmi01/RO/blob/1dd2d1b5d5297c59d69a6a2735036df92f6c1c1b/parameters.jpg)
 
 
 
