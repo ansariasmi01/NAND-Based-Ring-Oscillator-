@@ -46,9 +46,30 @@ The ring oscillator is a vital component for generating stable oscillations with
 ## Pre-Layout Performance Characteristics
 
 ### Layout of Ring Oscillator
-
 ![image alt](https://github.com/ansariasmi01/RO/blob/cd427a753980366ec0a95909d68420f1bfcd979e/Layout%20of%20Ring%20Oscillator.jpg)
 
+
+### Waveform for Transient Analysis of Ring Oscillator
+![image alt](https://github.com/ansariasmi01/RO/blob/53f755c0909f7e1233ad8938bcdf64ff1ea27d2c/Waveform%20for%20Transient%20Analysis%20of%20Ring%20Oscillator.jpg)
+
+
+### Waveform for Power consumption of Ring Oscillator
+![image alt](https://github.com/ansariasmi01/RO/blob/3a3501fdcc766131db901cd8fd7dde76fcafc3b8/Waveform%20for%20Power%20consumption%20of%20%20Ring%20Oscillator.jpg)
+
+
+### Waveform for Voltage of Ring Oscillator
+![image alt](https://github.com/ansariasmi01/RO/blob/17e54efa43e744370824d8875eb2331f5c3d36a4/Waveform%20for%20Voltage%20of%20Ring%20Oscillator%20.jpg)
+
+
+### Waveform for THD of Ring Oscillator
+![image alt](https://github.com/ansariasmi01/RO/blob/01c21d03d2fee96dfaf33a806397526538b987db/Waveform%20for%20THD%20of%20%20Ring%20Oscillator.jpg)
+
+
+###  Waveform for Compression Point of Ring Oscillator 
+![image alt](https://github.com/ansariasmi01/RO/blob/a0dafd039aa3d1688806105265f0cc2020b3438a/Waveform%20for%20Compression%20Point%20of%20Ring%20Oscillator%20.jpg)
+
+### Waveform for Power Added Efficiency of Ring Oscillator
+![image alt](https://github.com/ansariasmi01/RO/blob/6791b8944a9f7ea9f26d90fa3dcf377aabd469ef/Waveform%20for%20Power%20Added%20Efficiency%20of%20Ring%20Oscillator%20.jpg)
 
 
 
