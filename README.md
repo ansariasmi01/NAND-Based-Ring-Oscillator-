@@ -64,7 +64,7 @@ The ring oscillator is a vital component for generating stable oscillations with
 ![image alt](https://github.com/ansariasmi01/RO/blob/86fdba7b808af338e0d3f47f8feb72e7c8469987/Waveform%20for%20Power%20Added%20Efficiency%20of%20Ring%20Oscillator.jpg)
 
 
-## Tools used and steps to reproduce all waveforms (Tools allowed are xschem/eSim/ngspice) 
+## Tools used (Tools allowed are xschem/eSim/ngspice) 
 Ngspice is an open source mixed-signal circuit simulator.
 ### Installing Ngspice
 #### For Ubuntu
