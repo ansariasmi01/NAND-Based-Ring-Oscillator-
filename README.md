@@ -69,7 +69,7 @@ The ring oscillator is a vital component for generating stable oscillations with
 ![image alt](https://github.com/ansariasmi01/RO/blob/a0dafd039aa3d1688806105265f0cc2020b3438a/Waveform%20for%20Compression%20Point%20of%20Ring%20Oscillator%20.jpg)
 
 ### Waveform for Power Added Efficiency of Ring Oscillator
-![image alt](https://github.com/ansariasmi01/RO/blob/6791b8944a9f7ea9f26d90fa3dcf377aabd469ef/Waveform%20for%20Power%20Added%20Efficiency%20of%20Ring%20Oscillator%20.jpg)
+![image alt](https://github.com/ansariasmi01/RO/blob/86fdba7b808af338e0d3f47f8feb72e7c8469987/Waveform%20for%20Power%20Added%20Efficiency%20of%20Ring%20Oscillator.jpg)
 
 
 
