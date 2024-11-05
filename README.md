@@ -46,7 +46,10 @@ The ring oscillator is a vital component for generating stable oscillations with
 ## Pre-Layout Performance Characteristics
 
 ### Layout of Ring Oscillator
-![image alt](https://github.com/ansariasmi01/RO/blob/cd427a753980366ec0a95909d68420f1bfcd979e/Layout%20of%20Ring%20Oscillator.jpg)
+ <p align="center">
+  <img width="800" height="500" src="/Images/N/[block.png]https://github.com/ansariasmi01/RO/blob/cd427a753980366ec0a95909d68420f1bfcd979e/Layout%20of%20Ring%20Oscillator.jpg">
+</p>
+
 
 
 ### Waveform for Transient Analysis of Ring Oscillator
