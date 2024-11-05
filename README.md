@@ -1,14 +1,20 @@
 # Ring Oscillator for Timing Applications 
+
 This project simulates the designed ring oscillator circuit to analyze its timing performance and stability in various conditions.
-Note:Note: Circuit requires further optimization to improve performance. Design yet to be modified.
+
+Note: Circuit requires further optimization to improve performance. Design yet to be modified.
 
 ## A Glance at the Ring Oscillator for Timing Applications
+
 The ring oscillator is a vital component for generating stable oscillations without relying on an external clock source, making it indispensable for various timing, clock generation, and frequency synthesis applications, including phase-locked loops (PLLs) and clock recovery systems. Its design, often based on inverters or NAND gates, provides flexibility and precise frequency control through adjustable stages. Designing a ring oscillator with a high power supply rejection ratio (PSRR) and stable frequency characteristics is crucial for consistent performance across varying operating conditions. This project explores the principles of ring oscillator operation, its implementation, the design challenges encountered, and potential improvements to enhance its performance and reliability.
 
+
 ## Block Diagram of the Ring Oscillator for Timing Applications
+
  ![image alt](https://github.com/ansariasmi01/RO/blob/9cbdac6bae896ea371accd4a8989f908d5866e6f/Block%20Diagram.jpg)
 
 ## Circuit Diagram of the Ring Oscillator for Timing Applications
+
 ![image alt](https://github.com/ansariasmi01/RO/blob/ddf1eacce8eab92efb141f6da4ecf5d1be1e2256/Circuit%20Diagram.jpg)
 
 ## Ring Oscillator Performance Parameters
